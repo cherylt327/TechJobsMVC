@@ -100,6 +100,7 @@ namespace TechJobs.Models
             return jobs;
         }
 
+
         /*
          * Load and parse data from job_data.csv
          */
